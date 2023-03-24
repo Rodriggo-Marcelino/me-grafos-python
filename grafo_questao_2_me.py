@@ -1,4 +1,6 @@
+import matplotlib.pyplot as plt
 import networkx as nx
+
 
 # Instanciando o objeto Grafo
 G2 = nx.Graph()
